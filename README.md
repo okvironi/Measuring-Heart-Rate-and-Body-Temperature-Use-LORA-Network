@@ -6,13 +6,24 @@ Created by Andre Okvironi
 <br/>
 
 ## Tool Concept
+### Block Digram
 <p align="center">
-    <img src="Dokumentations/Block Diagram overall.png" width=80% height=80%>
-    Block Diagram Overall<br/>
-
-    <img src="Dokumentations/Block Diagram client.png" width=80% height=80%>
-
-
+    Overall <br/>
+    <img src="Dokumentations/Block Diagram overall.png" width=50% height=50%>
+    <br/>
+    <br/>
+    Client <br/>
+    <img src="Dokumentations/Block Diagram Client.png" width=50% height=50%>
+    <br/>
+    <br/>
+    User <br/>
+    <img src="Dokumentations/Block Diagram User.png" width=50% height=50%>
+    <br/>
+    <br/>
+    Host <br/>
+    <img src="Dokumentations/Block Diagram Host.png" width=50% height=50%>
+    <br/>
+    <br/>
 </p>
 <br/>
 
