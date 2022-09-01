@@ -7,7 +7,7 @@ Created by Andre Okvironi
 
 ## Tool Concept
 <p align="center">
-    <img src="Dokumentations/Block Diagram overall.png" width=100% height=100%>
+    <img src="Dokumentations/Block Diagram overall.png" width=80% height=80%>
 </p>
 <br/>
 
