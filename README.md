@@ -2,14 +2,14 @@
 Created by Andre Okvironi
 >Thesis and Final Project <br/>
 >Industrial Electronics Engineering
+</br>
 
 ### Tools Used and Language
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-
-
-
+</br>
+</br>
 
 ### Main Program
 ```
