@@ -3,7 +3,7 @@ Created by Andre Okvironi
 >Thesis and Final Project <br/>
 >Industrial Electronics Engineering
 
-## Tools Used
+### Tools Used and Language
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -11,7 +11,7 @@ Created by Andre Okvironi
 
 
 
-## Main Program
+### Main Program
 ```
 //suhu GY906 MLX
 #include <Wire.h>
