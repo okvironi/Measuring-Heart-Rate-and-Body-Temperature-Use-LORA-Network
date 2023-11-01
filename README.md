@@ -3,6 +3,12 @@ Created by Andre Okvironi
 >Thesis and Final Project <br/>
 >Industrial Electronics Engineering
 
+## Tools Used
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+
 ## Main Program
 ```
 //suhu GY906 MLX
